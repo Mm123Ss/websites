@@ -195,4 +195,16 @@ a {
         justify-content: end;
 }
 
-
+.Page-4{
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 0px 16px;
+    height: 36px;
+    color: #e8eaed;
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: #303134;
+    margin-left: 5px;
+    margin-right: 5px
+}
