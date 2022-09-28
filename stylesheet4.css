@@ -38,5 +38,20 @@ body{
     border-radius: 5px;
     padding: 5px 10px ;
     font-size: large;
-    background-position: left; 
+    display: flex;
+    margin-right: 200px;
+    
+}
+.return-link{
+    text-decoration: none;
+}
+
+.return-link:hover{
+    color: rgba(199, 144, 250, 0.425);
+}
+
+.return:hover{
+    background-image: url(https://gifimage.net/wp-content/uploads/2018/10/aesthetic-wallpaper-gif-3.gif);
+    background-size: cover;
+    padding: 10px 15px;
 }
