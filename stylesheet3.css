@@ -128,3 +128,21 @@ h1:hover{
     background-position: center;
 }
 
+.Next-page{
+    margin-bottom: 15px;
+    border: 2px solid purple;
+    font-family: 'Happy Monkey', cursive;
+    text-shadow: 5px 4px 5px rgb(233, 121, 81);
+    padding: 5px 10px;
+    background-color: rgb(255, 226, 182);
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.Next-page-link{
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+    font-size: medium;
+    font-weight: 100;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+}
