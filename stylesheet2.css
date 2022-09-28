@@ -1,0 +1,84 @@
+body{
+    /* BG-image can be downloaded image or gif or put a url link*/
+    color: rgb(197, 197, 109);
+    text-align: center; 
+    margin: 0;
+}
+
+h1, h2{
+    font-family: 'Trispace', sans-serif;
+    font-weight: 200;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-shadow:-1px 4px 5px white;
+}
+
+@font-face {
+    font-family: CS ;
+    src: url("callingstone/Callingstone\ -\ Personal\ Use\ Only.ttf");
+} 
+
+p{
+    font-family: CS;
+    font-weight: 600;
+    margin: 20px;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.473);
+    text-shadow: -1px 2px  9px  rgb(118, 131, 3);
+}
+
+span{
+    border: 2px solid #7c162e;
+    padding: 2px 10px ;
+    background-color:#3c162f;
+    border-radius: 4px;
+    text-decoration: underline;
+    text-decoration-thickness: 3px; 
+    text-decoration-color:#7a7a7a ;
+    text-shadow: 0px 1px white;
+}
+
+
+.page2-return, .page4{
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: dimgrey;
+}
+.page2-link, .page4-link{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: 'Trispace', sans-serif;
+    font-weight: 800;
+}
+
+#logo {
+    width: 100px;
+    margin: 5px;
+}
+
+.page{
+    padding: 10px 0px 15px 0;
+    background-size:cover;
+    background-image: url(images/giphy.gif); /* BG properties is inside the page's DIV */
+   
+}
+
+.terms{
+ font-family: 'Trispace', sans-serif;
+ font-weight: bold;
+ text-align: center;
+ font-size: xx-large;
+ text-shadow: 2px 1px 2px
+                    /*blur */      rgb(0, 0, 0); 
+}
+
+.page4:hover{
+    background-image: url(https://media0.giphy.com/media/gIwbkt1Gt5cdlcwi9p/giphy.gif);
+    background-position: center;
+    padding: 20px 25px ;
+}
+
+.page4, .page2-return{
+    margin: 10px;
+}

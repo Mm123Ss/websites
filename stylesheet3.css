@@ -1,0 +1,130 @@
+
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px;
+    border: 3px solid cadetblue;
+    background: linear-gradient(#f7a28b, #f0f78b,#c8f78b);
+}
+
+
+h1, h2, h3, h4, p{
+    font-family: 'Happy Monkey', cursive;
+    color: rgb(116, 85, 9);
+    text-shadow: 5px 4px 5px rgb(233, 121, 81);
+    padding:5px 20px;
+    margin: 10px 20px;
+    border-radius: 5px;
+    
+}
+h1, h3{
+    margin: 1px;
+}
+
+
+h4,h1{
+    margin-left: 500px;;
+    margin-right: 500px;
+    border: 2px solid violet;
+}
+
+h4, p, h2, h1{
+    background-color: rgba(239, 247, 253, 0.644);
+}
+
+
+p{
+    font-weight: 900;   
+    font-size: larger;
+    border: 2px solid violet;
+    margin-bottom: 20px; /*extends the bg image  */
+}
+
+.cat{
+    width: 350px;
+    align-items: center;
+    border-radius: 50%; /* max border radius*/
+    border: 10px double crimson;
+}
+
+.box{
+    width: 600px;
+    height: 450px;
+    border: 4px solid coral;
+    border-radius: 10px;
+    background-image: url(images/box.jpg);
+    background-size: cover;
+    margin: auto;
+}
+
+.box:hover{
+    background-image: url("https://img1.picmix.com/output/stamp/normal/7/9/7/5/1995797_5d084.gif");
+    background-color: darkgoldenrod;
+}
+
+.gift{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+h2{
+    padding-top: 0px  ;
+    padding-bottom: 0px;
+    margin: 20px 150px;    
+}
+
+h1:hover{
+    background: linear-gradient(#fad493,#fa9a93) ;
+}
+
+.top-part{
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/003/423/841/small/cute-cat-cartoon-doodle-seamless-pattern-background-wallpaper-vector.jpg) ;
+}
+.return{
+    margin-bottom: 15px;
+    border: 2px solid purple;
+    font-family: 'Happy Monkey', cursive;
+    text-shadow: 5px 4px 5px rgb(233, 121, 81);
+    padding: 5px 10px;
+    background-color: rgb(255, 226, 182);
+    border-radius: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.return:hover{
+    background-image: url("https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif");
+    padding: 15px 10px;
+    background-position: center;
+}
+
+
+.return-link{
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+    font-size: medium;
+    font-weight: 100;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+}
+
+.gift-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.box-2{
+    width: 600px;
+    height: 450px;
+    border: 4px solid coral;
+    border-radius: 10px;
+    background-image: url(images/box.jpg);
+    background-size: cover;
+    margin: auto;
+}
+
+.box-2:hover{
+    background-image: url(https://c.tenor.com/dEpZxRPM2D0AAAAC/booty-among-us.gif);
+    background-position: center;
+}
+

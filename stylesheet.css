@@ -1,0 +1,198 @@
+input
+{ 
+    color:#ffffff;
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid #e8eaed;
+    width: 300px;
+    padding: 5px;
+    padding-left: 20px;
+    font-size: 14px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: #202124;
+    color: #e8eaed;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.main{ 
+    width: 300px;
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.buttons {
+
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+ol {
+    border: #e8eaed solid 1px ;
+    border-radius: 10px;
+    width: 500px;
+    margin: 20px auto 20px auto ; /* margin; y axis value , x axis value (as shortcut)*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.black {
+    background: rgb(0, 0, 0);
+    height: 15px;
+    
+}
+.red {
+    background: red;
+    height: 15px;
+    
+}
+.yellow {
+    background: yellow;
+    height: 15px;
+    
+}
+
+.flag{
+    
+    margin-right: 95%;
+    position:static;
+}
+
+.text{
+    margin: 15px auto 15px auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(14, 119, 122);
+    color: #000000;
+    border-radius: 20px;
+    border: 3px dotted #ffffff ;
+    font-family:  'Amatic SC', cursive;
+    font-weight:700;
+    font-size: x-large;
+}
+
+
+.link{
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.submit {
+    color: black;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 20px;
+    
+}
+
+.return{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 20px;
+}
+
+
+.kiwi{
+    width: 13rem;
+    border: 5px groove cornflowerblue ;
+}
+.card{
+    background-color: #e8eaed;
+    border: 2px solid blue;
+    border-bottom: 5px solid blueviolet;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info{
+    color: rgb(60, 128, 60);
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    border: 2px dotted tomato;
+    text-align: center;
+}
+
+
+.Lucky-nextpage{
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 0px 16px;
+    height: 36px;
+    color: #e8eaed;
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: #303134;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sign-in
+{
+    background: #8ab4f8 ;
+    border-radius: 4px;
+    color: #202124;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.GI-btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 36px;
+    color: #e8eaed ;
+    border: transparent;
+    background: transparent;    
+}
+.Top-row{
+        display: flex;
+        text-align: center;
+        justify-content: end;
+}
+
+
