@@ -4,13 +4,39 @@ body{
     font-family: 'Happy Monkey', cursive;
 }
 .top-part{
-    background-image: url(https://wallpaper.dog/large/20511306.jpg);
+    background-image: url(https://wallpaper.dog/large/17284129.gif);
     background-position: center;
+    background-size: cover;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    border: 2px dashed rgba(128, 0, 128, 0.582);
+    border-bottom: 5px solid purple;
+    
 }
 .header{
-    color: cornflowerblue;
+    color: white;
     font-size: xx-large;
     font-weight: 900;
-    
-    
+    text-shadow: -3px 10px 5px black;
+    font-style: italic;
+    border: 3px solid rgba(255, 129, 150, 0.425);
+    background-color: rgba(176, 104, 243, 0.212);
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.gif{
+    border: 2px solid white;
+    margin-top: 10px;
+}
+
+.return{
+    border: 2px solid purple;
+    background-color: rgb(167, 167, 255);
+    font-family: 'Happy Monkey', cursive;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 5px 10px ;
+    font-size: large;
+    background-position: left; 
 }
