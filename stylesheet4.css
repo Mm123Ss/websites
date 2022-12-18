@@ -28,6 +28,7 @@ body{
 .gif{
     border: 2px solid white;
     margin-top: 10px;
+    
 }
 
 .return{
@@ -62,7 +63,7 @@ body{
     border-bottom: 5px solid rgb(38, 110, 192);
     padding-top: 20px;
 }
-.DIV{
+.DIV, .CON{
     font-weight: bold;
     color: rgb(237, 110, 241);
     text-shadow: -1px 3px 4px rgb(44, 11, 44);
@@ -83,3 +84,4 @@ p{
     text-align: left;
     
 }
+
