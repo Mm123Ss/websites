@@ -62,7 +62,7 @@ body{
     border-bottom: 5px solid rgb(38, 110, 192);
     padding-top: 20px;
 }
-.DIV, .CON{
+.DIV{
     font-weight: bold;
     color: rgb(237, 110, 241);
     text-shadow: -1px 3px 4px rgb(44, 11, 44);
