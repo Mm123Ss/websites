@@ -1,0 +1,13 @@
+button{
+    padding: 5px 10px;
+    border: 2px solid black ;
+    border-bottom: 4px solid black;
+    border-radius: 20px;
+
+}
+
+button:hover{
+    background-color: grey;
+}
+
+
